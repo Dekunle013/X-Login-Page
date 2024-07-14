@@ -24,9 +24,9 @@ function Login() {
           By signing up, you agree to the <a>Terms of Service</a> and <a>Privacy Policy</a>, including <a>Cookie Use</a>.
         </span>
 
-        <h1>Already have an account?</h1>
+        <h1 className="already">Already have an account?</h1>
 
-        <a href="#">Sign in</a>
+        <a className="sign-in-button" href="#">Sign in</a>
       </div>
 
       <div className="footer"></div>
